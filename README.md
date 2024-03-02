@@ -4,7 +4,7 @@ I am engaged in SysAdmin, DevOps and SRE.
 
 I also was working with Java and Android.
 
-Using linux for 2+ years.
+Using Linux for 2+ years.
 
 Feel free to invite me to your Open Source projects!
 
